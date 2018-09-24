@@ -11,6 +11,10 @@
 		{
 			"Name": "SpinePlugin",
 			"Enabled": false
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false
 		}
 	]
 }
